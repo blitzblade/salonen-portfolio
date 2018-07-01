@@ -6,8 +6,8 @@
             "start_date": "3-10-2017",
             "end_date": "",
             "title": "Junior Web Developer",
-            "description": "",
-            "technology": "HTML, Mustache, CSS, LESS, JavaScript, jQuery, Backbone.js, Mocha, React, Grunt, Ruby on Rails, REST, JSON, PostgreSQL"
+            "description": "As a member of Digital Goodie's Web team, my primary work is developing the consumer-facing parts of the company's products. I participated in Sprint plannings and partly took charge of maintaining QA of the company's web applications. I also assisted in upgrading the Web stack to a modern SPA.",
+            "technology": "HTML, Mustache, CSS, LESS, JavaScript, jQuery, Backbone.js, Mocha, React, Grunt, Ruby on Rails, REST, JSON, PostgreSQL, Kubernetes"
         },
         {
             "id": 4,
@@ -15,7 +15,7 @@
             "start_date": "28-08-2017",
             "end_date": "30-09-2017",
             "title": "Advisory Junior",
-            "description": "",
+            "description": "At KPMG, I developed Web applications for the company's internal projects, primarily in frontend with Angular, but also helped building their REST API's with Java.",
             "technology": "Java, Spring, Angular, TypeScript, SQL, MySQL, REST, Docker"
         },
         {
@@ -24,17 +24,8 @@
             "start_date": "01-01-2017",
             "end_date": "21-08-2017",
             "title": "Junior Software Developer",
-            "description": "",
+            "description": "Intellia was purchased by Suomen Asiakastieto in the fall of 2016, and I became a full-time employee of Asiakastieto from 2017. As a member of a team of Software Developers, I primarily fixed bugs and assisted in data integrations while participating in various software projects.",
             "technology": "Java, Spring, Oracle, SQL, SOAP, Python"
-        },
-        {
-            "id": 1,
-            "company": "Intellia Oy",
-            "start_date": "09-01-2015",
-            "end_date": "09-06-2015",
-            "title": "Professional Trainee",
-            "description": "",
-            "technology": "Java, SQL, HTML, CSS, SQL Server, REST, JSON, Spring"
         },
         {
             "id": 2,
@@ -42,8 +33,17 @@
             "start_date": "10-06-2015",
             "end_date": "31-12-2016",
             "title": "Software Developer",
-            "description": "",
+            "description": "As Intellia's main Software Developer, I created and maintained internal Web Applications for the company and maintained, updated and created databases for the company's use.",
             "technology": "Java, SQL, HTML, CSS, SQL Server, JSON, REST, Spring, Maven, Bootstrap, JavaScript, jQuery"
+        },
+        {
+            "id": 1,
+            "company": "Intellia Oy",
+            "start_date": "09-01-2015",
+            "end_date": "09-06-2015",
+            "title": "Professional Trainee",
+            "description": "As a Professional Trainee at Intellia Oy, I was hired to develop Web Applications for the company's internal use",
+            "technology": "Java, SQL, HTML, CSS, SQL Server, REST, JSON, Spring"
         }
     ]
 }
