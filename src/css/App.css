@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+.App {
+  text-align: center;
+  margin-top: -21px;
+}
+
+.header > h1 {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  margin-top: 50px;
+}
+
+.row {
+  margin: auto;
+}
+
+#content {
+  margin-top: 10px;
+}
+
+.subhead {
+  text-align: center; 
+  margin-bottom: 15px;
+}

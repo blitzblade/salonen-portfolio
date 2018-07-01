@@ -1,0 +1,24 @@
+.services {
+    text-align: left;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+    width: 100%;
+}
+
+p {
+    font-size: 16px;
+}
+
+.service {
+    height: 200px;
+}
+
+.service-image {
+    height: 150px;
+    width: 230px;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.5);
+}
+
+.service-name {
+    margin-top: 0px;
+}

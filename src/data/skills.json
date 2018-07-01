@@ -1,0 +1,49 @@
+{
+    "skills": {
+        "languages": [
+            "Java",
+            "JavaScript",
+            "Ruby",
+            "PHP",
+            "HTML",
+            "CSS",
+            "LESS",
+            "SQL",
+            "Lua",
+            "JSON"
+        ],
+        "frameworks": [
+            "Spring",
+            "React",
+            "jQuery",
+            "Backbone.js",
+            "Ruby on Rails",
+            "Bootstrap",
+            "AngularJS"
+        ],
+        "software": [
+            "Git",
+            "Adobe Photoshop",
+            "Adobe Premiere Pro",
+            "Adobe Xd",
+            "Microsoft Office",
+            "MySQL",
+            "SQL Server",
+            "Cron",
+            "Wordpress",
+            "Maven"
+        ],
+        "knowledge": [
+            "Web Design",
+            "Web Development",
+            "Software Development",
+            "Responsive Web Design",
+            "UI Design",
+            "Databases",
+            "Mobile Applications",
+            "Video Editing",
+            "Scrum",
+            "REST"
+        ]
+    }
+}

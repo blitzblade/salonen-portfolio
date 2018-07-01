@@ -1,0 +1,15 @@
+.cv {
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 100%;
+    border-radius: 10px;
+}
+
+.job {
+    margin-left: 10px;
+    border-bottom: 1px solid black;
+}
+
+.job:last-child {
+    border: none;
+}

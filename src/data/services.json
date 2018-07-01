@@ -1,0 +1,29 @@
+{
+    "services": [
+        {
+            "name": "Web Development",
+            "description": "Need a website for your service or company? Need help customizing your Wordpress site? Want to build an online store or some other kind of web system? I am experienced Web Developer with knowledge of both front- and backend development, from databases to Rest APIs and frontend web applications. I can help you design and implement a good-looking, responsive and user-friendly web application or website.",
+            "image": "webdevelopment.jpg"
+        },
+        {
+            "name": "Mobile Applications",
+            "description": "Aside from web applications, I have experience building mobile apps as well. Although native apps are a valid solution, my experience is primarily in hybrid frameworks like Phonegap, Ionic or React Native. I can help turn your idea into an app for both Android and iOS, with an easily approachable UI and smooth functionality.",
+            "image": "mobiledevelopment.jpg"
+        },
+        {
+            "name": "UI and UX Design",
+            "description": "Looking for designers for your web or mobile app? I can help you there, with an eye for design and a skill for prototyping and experience with Adobe Xd and Photoshop, I'll make a design that not only looks good, but comes with an understanding of programming for your client-side developers.",
+            "image": "uidesign.jpg"
+        },
+        {
+            "name": "Database Design and Consultation",
+            "description": "Having worked extensively with Big Data, I am here to help you take the data you have coming from multiple sources and in multiple file formats, and turn it into a viable database for your business needs. With scripts and automation services, I can even turn your data flow from a manual process to an automatic one.",
+            "image": "data.jpg"
+        },
+        {
+            "name": "Consulting Services",
+            "description": "Have another software-related issue I can help with? SEO, data visualization, mobile responsiveness, integrations or something else? Contact me and I'll see what we can do together.",
+            "image": "consultant.jpg"
+        }
+    ]
+}

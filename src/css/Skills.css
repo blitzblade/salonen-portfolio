@@ -1,0 +1,21 @@
+.skills {
+    text-align: left;
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 6px black;
+    padding-bottom: 15px;
+}
+
+.bg-padding {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.bg-alice {
+    background-color: aliceblue;
+}
+
+.skill-list, h3 {
+    margin-left: 10px;
+}

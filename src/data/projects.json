@@ -1,0 +1,58 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "type": "Website",
+            "client": "IESAF Ry",
+            "description": "",
+            "time": "May 2016",
+            "technology": "HTML, CSS, Wordpress, PHP, Bootstrap",
+            "url": "http://iesaf.fi"
+        },
+        {
+            "id": 2,
+            "type": "Web Application",
+            "client": "FundYou Oy",
+            "description": "",
+            "time": "June-August 2016",
+            "technology": "HTML, CSS, PHP, AngularJS, SQL, JSON",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "type": "Web Application",
+            "client": "Helsingin Nuoret Kotkat Ry",
+            "description": "",
+            "time": "July-October 2016",
+            "technology": "HTML, CSS, PHP, AngularJS, SQL, JSON",
+            "url": "http://lastenleirit.fi"
+        },
+        {
+            "id": 4,
+            "type": "Mobile application",
+            "client": "Kooditar Oy",
+            "description": "",
+            "time": "February-May 2017",
+            "technology": "HTML, CSS, jQuery, Angular, Ionic, JSON, SQL, PHP",
+            "url": "http://kooditar.fi/fyrkkaa"
+        },
+        {
+            "id": 5,
+            "type": "Website",
+            "client": "Arsenaali Oy",
+            "description": "",
+            "time": "November-December 2017",
+            "technology": "HTML, CSS, PHP, JavaScript, jQuery, Bootstrap, Wordpress, Adobe Xd",
+            "url": "https://arsenaali.fi"
+        },
+        {
+            "id": 6,
+            "type": "Website",
+            "client": "Barona Group Oy",
+            "description": "",
+            "time": "December 2017-January 2018",
+            "technology": "HTML, CSS, PHP, JavaScript, jQuery, Bootstrap, Wordpress",
+            "url": "https://gamesjobs.fi"
+        }
+    ]
+}
