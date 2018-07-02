@@ -1,0 +1,44 @@
+.projects {
+    text-align: left;
+    color: white;
+    text-shadow: 3px 3px 5px black;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: cornsilk;
+}
+
+h4, h5 {
+    text-align: center;
+}
+
+h5 {
+     color: beige;
+}
+
+.inactive {
+    cursor: default;
+    pointer-events: none;
+}
+
+.inactive:hover {
+    color: white;
+}
+
+.project-image {
+    height: 150px;
+    width: 220px;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.5);
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}

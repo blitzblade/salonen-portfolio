@@ -7,7 +7,8 @@
             "description": "For Kooditar Oy, I redesigned and re-implemented IESAF Ry's website to a more fresh, responsive look. The website runs on Wordpress.",
             "time": "May 2016",
             "technology": "HTML, CSS, Wordpress, PHP, Bootstrap",
-            "url": "http://iesaf.fi"
+            "url": "http://iesaf.fi",
+            "image": "project_iesaf.png"
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "description": "I participated in creating a crowdfunding platform for FundYou Oy, overseeing customer communication and creating many of the platform's web views. Ultimately, the prototype was changed to a different one and the company's current platform is a different one.",
             "time": "June-August 2016",
             "technology": "HTML, CSS, PHP, AngularJS, SQL, JSON",
-            "url": ""
+            "url": "",
+            "image": ""
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "description": "Helsingin Nuoret Kotkat Ry required a redesign of their website and a re-implementation of their camp registration system, requiring an integration for the Paytrail payment system and an automated logging of the camps and registered people to a database. As a lead developer of the project, I implemented the registration form, the Wordpress installation and most of the application's web views.",
             "time": "July-October 2016",
             "technology": "HTML, CSS, PHP, AngularJS, SQL, JSON",
-            "url": "http://lastenleirit.fi"
+            "url": "http://lastenleirit.fi",
+            "image": "project_lastenleirit.png"
         },
         {
             "id": 4,
@@ -34,7 +37,8 @@
             "description": "As part of the team at Kooditar Oy, I helped create the Fyrkkaa-application for tracking the closest Otto ATM's to the user. I helped obtain the required data, transform it to a required form in the application database and created some of the application's frontend views.",
             "time": "February-May 2017",
             "technology": "HTML, CSS, jQuery, Angular, Ionic, JSON, SQL, PHP",
-            "url": "http://kooditar.fi/fyrkkaa"
+            "url": "http://kooditar.fi/fyrkkaa",
+            "image": "project_fyrkkaa.png"
         },
         {
             "id": 5,
@@ -43,7 +47,8 @@
             "description": "I designed and implemented a new Wordpress website for the newly founded Arsenaali Oy, which runs on Wordpress.",
             "time": "November-December 2017",
             "technology": "HTML, CSS, PHP, JavaScript, jQuery, Bootstrap, Wordpress, Adobe Xd",
-            "url": "https://arsenaali.fi"
+            "url": "https://arsenaali.fi",
+            "image": "project_arsenaali.png"
         },
         {
             "id": 6,
@@ -52,7 +57,8 @@
             "description": "Based on the layouts created by the client, I implemented the new design for Barona's Gamesjobs.fi website, then integrated the new theme with the existing Wordpress-based site.",
             "time": "December 2017-January 2018",
             "technology": "HTML, CSS, PHP, JavaScript, jQuery, Bootstrap, Wordpress",
-            "url": "https://gamesjobs.fi"
+            "url": "https://gamesjobs.fi",
+            "image": "project_gamesjobs.png"
         }
     ]
 }

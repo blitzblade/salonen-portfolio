@@ -17,10 +17,10 @@ class Skills extends Component {
                     <Row>
                         <Col md={6} className="bg-alice">
                             <h3>Programming and markup languages</h3>
-                            <ul class="skill-list">
+                            <ul className="skill-list">
                             {this.props.skills.languages.map((language) => {
                                     return (
-                                        <li>{language}</li>
+                                        <li key={language}>{language}</li>
                                     )
                                 })
                             }
@@ -28,10 +28,10 @@ class Skills extends Component {
                         </Col>
                         <Col md={6}>
                             <h3>Frameworks</h3>
-                            <ul class="skill-list">
+                            <ul className="skill-list">
                             {this.props.skills.frameworks.map((framework) => {
                                     return (
-                                        <li>{framework}</li>
+                                        <li key={framework}>{framework}</li>
                                     )
                                 })
                             }
@@ -41,10 +41,10 @@ class Skills extends Component {
                     <Row>
                         <Col md={6}>
                             <h3>Software and Technology</h3>
-                            <ul class="skill-list">
+                            <ul className="skill-list">
                             {this.props.skills.software.map((software) => {
                                     return (
-                                        <li>{software}</li>
+                                        <li key={software}>{software}</li>
                                     )
                                 })
                             }
@@ -52,10 +52,10 @@ class Skills extends Component {
                         </Col>
                         <Col md={6}>
                             <h3>Skills and Methodology</h3>
-                            <ul class="skill-list">
+                            <ul className="skill-list">
                             {this.props.skills.knowledge.map((knowledge) => {
                                     return (
-                                        <li>{knowledge}</li>
+                                        <li key={knowledge}>{knowledge}</li>
                                     )
                                 })
                             }
