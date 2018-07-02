@@ -8,9 +8,19 @@
 }
 
 .job {
-    margin-left: 10px;
     border-bottom: 1px solid black;
-    padding-top: 10px;
+}
+
+.job > p {
+    margin-left: 10px;
+}
+
+.job:nth-child(odd) {
+    background-color: whitesmoke;
+}
+
+.job:nth-child(even) {
+    background-color: snow;
 }
 
 .job:last-child {

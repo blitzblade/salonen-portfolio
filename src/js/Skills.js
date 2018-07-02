@@ -14,8 +14,8 @@ class Skills extends Component {
                     <div className="bg-padding">
                         <h2 className="subhead">Skills</h2>
                     </div>
-                    <Row>
-                        <Col md={6} className="bg-alice">
+                    <Row className="bg-alice">
+                        <Col md={6}>
                             <h3>Programming and markup languages</h3>
                             <ul className="skill-list">
                             {this.props.skills.languages.map((language) => {
@@ -38,7 +38,7 @@ class Skills extends Component {
                             </ul>
                         </Col>
                     </Row>
-                    <Row>
+                    <Row className="bg-ghostwhite">
                         <Col md={6}>
                             <h3>Software and Technology</h3>
                             <ul className="skill-list">

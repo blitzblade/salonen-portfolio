@@ -12,8 +12,16 @@
     padding-bottom: 5px;
 }
 
+.skill {
+    height: 100%;
+}
+
 .bg-alice {
     background-color: aliceblue;
+}
+
+.bg-ghostwhite {
+    background-color: ghostwhite;
 }
 
 .skill-list, h3 {
