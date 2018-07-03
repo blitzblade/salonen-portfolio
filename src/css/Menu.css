@@ -10,12 +10,18 @@
     background-color: rgba(255, 255, 255, 0.6);
     box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.7);
     border-style: none;
+    color: ghostwhite;
 }
 
 .menu > a > button > h4 {
-    text-shadow: 1px 1px;
+    text-shadow: 2px 2px black;
 } 
 
 .menu > a:hover {
     text-decoration: none;
+}
+
+.menu > a:hover > button > h4 {
+    color: black;
+    text-shadow: none;
 }

@@ -3,6 +3,7 @@ This is a simple porfolio website built using React. It serves as both a portfol
 <ul>
   <li>React and JSX</li>
   <li>React Router</li>
+  <li>React Bootstrap></li>
   <li>ES6</li>
   <li>Props</li>
   <li>State</li>
