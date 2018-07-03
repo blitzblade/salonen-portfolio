@@ -42,3 +42,7 @@ h5 {
     display: none;
     visibility: hidden;
 }
+
+.ingress {
+    margin-bottom: 30px;
+}

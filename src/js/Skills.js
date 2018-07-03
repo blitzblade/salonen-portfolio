@@ -40,7 +40,7 @@ class Skills extends Component {
                     </Row>
                     <Row className="bg-ghostwhite">
                         <Col md={6}>
-                            <h3>Software and Technology</h3>
+                            <h3>Software and technology</h3>
                             <ul className="skill-list">
                             {this.props.skills.software.map((software) => {
                                     return (
@@ -51,7 +51,7 @@ class Skills extends Component {
                             </ul>
                         </Col>
                         <Col md={6}>
-                            <h3>Skills and Methodology</h3>
+                            <h3>Skills and knowledge</h3>
                             <ul className="skill-list">
                             {this.props.skills.knowledge.map((knowledge) => {
                                     return (

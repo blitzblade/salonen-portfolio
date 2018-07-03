@@ -8,6 +8,7 @@ class Projects extends Component {
             <div className="projects">
                 <Row>
                     <h2 className="subhead">Projects</h2>
+                    <p className="ingress">Apart from full-time jobs, I've also partaken in software projects on my own time and between jobs, most of them for Kooditar Oy. Here are some notable projects I've participated in.</p>
                     <div>
                     {this.props.projects.map((project) => {
                                 let linkClass = "active"; 

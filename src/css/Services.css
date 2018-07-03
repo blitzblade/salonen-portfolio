@@ -10,7 +10,7 @@ p {
 }
 
 .service {
-    height: 200px;
+    min-height: 200px;
 }
 
 .service-image {
