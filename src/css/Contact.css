@@ -3,6 +3,42 @@
     text-shadow: 3px 3px 5px black;
 }
 
+h3 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+#contactform {
+    width: 80%;
+}
+
 #contactform > input {
     color: black;
+}
+
+textarea {
+    min-height: 150px;
+}
+
+#submit-btn {
+    margin-top: 20px;
+    float: left;
+    width: 80%;
+    font-size: 24px;
+}
+
+#message {
+    width: 50%;
+}
+
+.error {
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 3px solid indianred;
+}
+
+.success {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 3px solid lawngreen;
+    color: black;
+    text-shadow: none;
 }
