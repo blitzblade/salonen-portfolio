@@ -29,7 +29,6 @@ class Contact extends Component {
             self.setState({sent: true});
             console.log(response);
             self.setState({data: response.data});
-            console.log(self.state);
             self.changeMessage();
           })
           .catch(function (error) {
