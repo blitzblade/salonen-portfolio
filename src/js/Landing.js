@@ -10,7 +10,7 @@ class Landing extends Component {
             <Row>
               <h2 className="subhead">About me</h2>
               <Col md={9}>
-                <p>Some bullshit</p>
+                <p>Description pending</p>
               </Col>
               <Col md={3}>
                 <img alt="Profile" src={ profilepic } className="img-circle" />
